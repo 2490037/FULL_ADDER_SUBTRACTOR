@@ -1,4 +1,4 @@
-### NAME:PRANAV S
+### NAME :PRANAV S
 ### REG NO:24900037
 ### EXPERIMENT: FULL_ADDER_SUBTRACTOR
 
@@ -79,9 +79,6 @@ assign difference= ( (a ^ b)^bin);
 assign borrow= ( ( ~a & b)| ( bin & (~(a ^ b )));
 endmodule
 
-Developed by: S.YOGESH
-RegisterNumber:24001573
-*/
 
 **RTL Schematic**
 
