@@ -1,8 +1,8 @@
-### NAME :PRANAV S
-### REG NO:24900037
-### EXPERIMENT: FULL_ADDER_SUBTRACTOR
+### NAME : PRANAV S
+### REG NO : 24900037
+### EXPERIMENT 4 : FULL ADDER SUBTRACTOR
 
-Implementation-of-FulL-Adder-and-Full-subtractor-circuit
+
 
 **AIM:**
 
